@@ -1,10 +1,10 @@
-# Hi there, I'm [Your Name]! 👋
+# Hi there, I'm MrMojoRising777! 👋
 
 [![GitHub followers](https://img.shields.io/github/followers/MrMojoRising777?label=Follow&style=social)](https://github.com/MrMojoRising777)
 
 ## About Me
 
-🇧🇪
+Coming soon!
 
 ## 💡 Main Interests:
 
@@ -41,8 +41,8 @@ Development tools:
 Effortlessly manage social connections, plan meetups, and view overlapping free dates with this Laravel-based web app.
 (https://github.com/MrMojoRising777/EventSync)
 
-### Project 2
-Similar to Project 1, briefly describe the project and provide a link.
+### Project 2 (Coming soon!)
+Similar to EventSync, I will briefly describe the project and provide a link.
 
 ## Github Stats
 
@@ -54,5 +54,6 @@ Similar to Project 1, briefly describe the project and provide a link.
 
 ## Connect with Me
 
+Coming soon!
 
 Feel free to reach out if you want to collaborate or have any questions!
