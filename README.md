@@ -1,7 +1,6 @@
 # Hi there, I'm [Your Name]! 👋
 
-[![GitHub followers](https://img.shields.io/github/followers/your_username?label=Follow&style=social)](https://github.com/your_username)
-[![Twitter Follow](https://img.shields.io/twitter/follow/your_twitter_username?style=social)](https://twitter.com/your_twitter_username)
+[![GitHub followers](https://img.shields.io/github/followers/MrMojoRising777?label=Follow&style=social)](https://github.com/MrMojoRising777)
 
 ## About Me
 
@@ -29,17 +28,15 @@ If you have a blog or have written articles on coding, data science, or any othe
 
 ## Github Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=your_username&show_icons=true&hide=issues,contribs&theme=radical)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=MrMojoRising777&show_icons=true&hide=issues,contribs&theme=radical)
 
 ## Top Languages
 
-![Your Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your_username&layout=compact&theme=radical)
+![Your Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MrMojoRising777&layout=compact&theme=radical)
 
 ## Connect with Me
 
-- LinkedIn: [Your LinkedIn Profile URL](LinkedIn_Profile_URL)
-- Personal Website: [Your Personal Website URL](Your_Personal_Website_URL)
-- Twitter: [@YourTwitterUsername](https://twitter.com/YourTwitterUsername)
-- Email: your_email@example.com
+- LinkedIn: [Your LinkedIn Profile URL]([LinkedIn_Profile_URL](https://www.linkedin.com/in/alexander-goyens-a0a8a2224/))
+- Email: alexander.goyens@gmail.com
 
 Feel free to reach out if you want to collaborate or have any questions!
