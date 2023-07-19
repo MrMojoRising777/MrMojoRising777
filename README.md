@@ -32,9 +32,7 @@ Project is still in development
 
 ## 📈 Github Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=MrMojoRising777&show_icons=true&hide=issues,contribs&theme=radical)
-
-![Your Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MrMojoRising777&layout=compact&theme=radical)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=MrMojoRising777&show_icons=true&hide=issues,contribs&theme=radical)![Your Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MrMojoRising777&layout=compact&theme=radical)
 
 ## 📫 Connect with Me
 
