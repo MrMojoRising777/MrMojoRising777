@@ -10,11 +10,7 @@ More coming soon!
 ## 💡 Main Interests:
 
 <ul>
-  <li>💭 Coding ideas into reality</li>
-  <li>🔎 Finding solutions & fixing problems</li>
-  <li>📜 History</li>
-  <li>🕹️ Gaming (Grand-Strategy, RPG, ...)</li>
-  <li>🏓 Sports (Football, Ping Pong, Chess)</li>
+  <li>💭 Coding ideas into reality</li> <li>🔎 Finding solutions & fixing problems</li> <li>📜 History</li> <li>🕹️ Gaming (Grand-Strategy, RPG, ...)</li> <li>🏓 Sports (Football, Ping Pong, Chess)</li>
 </ul>
 
 ## 🧠 Knows about:
