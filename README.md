@@ -29,15 +29,12 @@ Development tools:
 
 ## Projects
 
-### Project 1
-Describe your project briefly and provide a link to it. You can add an image or GIF to make it visually appealing.
+### EventSync
+Effortlessly manage social connections, plan meetups, and view overlapping free dates with this Laravel-based web app.
+(https://github.com/MrMojoRising777/EventSync)
 
 ### Project 2
 Similar to Project 1, briefly describe the project and provide a link.
-
-## Blog Posts
-
-If you have a blog or have written articles on coding, data science, or any other related topics, list a few of your best posts and provide links to them.
 
 ## Github Stats
 
