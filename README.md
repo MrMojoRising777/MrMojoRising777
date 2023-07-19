@@ -4,7 +4,15 @@
 
 ## About Me
 
-Briefly introduce yourself here. Talk about your passion for coding, your areas of interest, and what drives you.
+🇧🇪
+
+## 💡 Main Interests:
+
+<ul>
+  <li>💭 Coding ideas into reality</li>
+  <li>🔎 Finding solutions & fixing problems</li>
+  <li>🏓 Ping Pong</li>
+</ul>
 
 ## Technologies & Tools
 
