@@ -32,7 +32,14 @@ Project is still in development
 
 ## 📫 Connect with Me
 
-Coming soon!
+📧 alexander.goyens@gmail.com
+📞 +324 76 77 56 80
+
+<p class="links">Or find me on:</p>
+<a href="https://www.linkedin.com/in/alexander-goyens-a0a8a2224/" target="blank"><i class="fab fa-linkedin">Linkedin</i></a>
+<a href="https://codepen.io/MrMojoRising777" target="blank"><i class="fab fa-codepen"> CodePen</i></a>
+<a href="https://github.com/MrMojoRising777" target="blank"><i class="fab fa-github"></i> Github</a>
+<a href="https://dev.to/mrmojorising777" target="blank"><i class="fab fa-dev"></i> Dev Community</a>
 
 Feel free to reach out if you want to collaborate or have any questions!
 Gotta keep on Risin'! 🚀
