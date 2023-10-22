@@ -23,6 +23,15 @@ More coming soon!
 Effortlessly manage social connections, plan meetups, and view overlapping free dates with this Laravel-based web app.
 (https://github.com/MrMojoRising777/EventSync)
 
+### Bee-Oscoop
+Discover, book, and experience movies like never before! This theater project seamlessly integrates with OMDb, offering accurate movie listings, easy ticket bookings. Whether you're a cinephile or just looking for a fun night out this project is your gateway to cinematic magic.
+(Vue front-end: https://github.com/MrMojoRising777/bee-oscoop,
+Laravel back-end: https://github.com/MrMojoRising777/DB_bee-oscoop)
+
+### Cafe (template)
+Unveil the soul of your cafe with our elegant template. Showcase your menu, share the rich history of your cafe, and provide easy access with a map-linked contact section. Engage your audience with delectable offerings, tell your cafe's unique story, and guide them to your cozy haven. Serve up memories today!
+(https://mrmojorising777.github.io/template_cafe-site/)
+
 ### card_game (Coming soon!)
 Project is still in development
 
