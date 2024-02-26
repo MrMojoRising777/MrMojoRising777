@@ -18,10 +18,10 @@ The Collection Companion is a Laravel-based web application tailored for enthusi
 
 Key Features:
 
-📖 Catalog Suske en Wiske: Effortlessly manage your Suske en Wiske comics collection. Get an overview of all comics
-🔍 ISBN Scanner: Simplify the process of adding new comics to your collection by utilizing the built-in ISBN scanner, allowing for swift and accurate cataloging.
-📝 Wishlist Functionality: Keep tabs on comics you aspire to acquire with the integrated wishlist feature, ensuring you never miss an addition to your collection.
-🔒 Secure Authentication: Access your collection securely with user-friendly authentication powered by Laravel Breeze, guaranteeing peace of mind while managing your valuable assets.
+📖 Catalog Suske en Wiske: Effortlessly manage your Suske en Wiske comics collection. <br>
+🔍 ISBN Scanner: Simplify the process of adding new comics to your collection by utilizing the built-in ISBN scanner, allowing for swift and accurate cataloging. <br>
+📝 Wishlist Functionality: Keep tabs on comics you aspire to acquire with the integrated wishlist feature, ensuring you never miss an addition to your collection. <br>
+🔒 Secure Authentication: Access your collection securely with user-friendly authentication powered by Laravel Breeze, guaranteeing peace of mind while managing your valuable assets. <br>
 Whether you're a dedicated collector or just starting your comic journey, the Collection Companion offers a comprehensive solution to streamline your organization and enhance your comic collecting experience.
 
 ### EventSync
