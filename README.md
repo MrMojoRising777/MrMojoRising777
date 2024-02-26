@@ -1,11 +1,9 @@
 # Hi there, I'm MrMojoRising777! 👋
-
 [![GitHub followers](https://img.shields.io/github/followers/MrMojoRising777?label=Follow&style=social)](https://github.com/MrMojoRising777)
 
-## About Me
+## 🛈 About Me
 
-👋 Hi, I'm Alexander Goyens, a passionate Junior Laravel Developer @ <a href="https://keysoftware.nl"><img src="https://i.ibb.co/4Pcv6Tc/logo-key-removebg-preview.png" alt="logo" border="0"></a>
-
+👋 Hi, I'm Alexander Goyens, a passionate Junior Laravel Developer @ <a href="https://keysoftware.nl" target="blank">KeySoftware</a>.
 ⬛🟨🟥
 
 ## 🧠 Knows about:
@@ -14,33 +12,25 @@
 
 ## ⚙️ Projects
 
+### 📚 Collection Companion
+
+The Collection Companion is a Laravel-based web application tailored for enthusiasts to effortlessly organize and curate their comic book collections. While currently optimized for the iconic Flemish series "Suske en Wiske," the platform is designed with scalability in mind, ensuring potential expansion to other comics and series.
+
+Key Features:
+
+📖 Catalog Suske en Wiske: Effortlessly manage your Suske en Wiske comics collection. Get an overview of all comics
+🔍 ISBN Scanner: Simplify the process of adding new comics to your collection by utilizing the built-in ISBN scanner, allowing for swift and accurate cataloging.
+📝 Wishlist Functionality: Keep tabs on comics you aspire to acquire with the integrated wishlist feature, ensuring you never miss an addition to your collection.
+🔒 Secure Authentication: Access your collection securely with user-friendly authentication powered by Laravel Breeze, guaranteeing peace of mind while managing your valuable assets.
+Whether you're a dedicated collector or just starting your comic journey, the Collection Companion offers a comprehensive solution to streamline your organization and enhance your comic collecting experience.
+
 ### EventSync
 Effortlessly manage social connections, plan meetups, and view overlapping free dates with this Laravel-based web app.
 (https://github.com/MrMojoRising777/EventSync)
 
-### Bee-Oscoop
-Discover, book, and experience movies like never before! This theater project seamlessly integrates with OMDb, offering accurate movie listings, easy ticket bookings. Whether you're a cinephile or just looking for a fun night out this project is your gateway to cinematic magic.
-(Vue front-end: https://github.com/MrMojoRising777/bee-oscoop,
-Laravel back-end: https://github.com/MrMojoRising777/DB_bee-oscoop)
-
-### Cafe (template)
-Unveil the soul of your cafe with our elegant template. Showcase your menu, share the rich history of your cafe, and provide easy access with a map-linked contact section. Engage your audience with delectable offerings, tell your cafe's unique story, and guide them to your cozy haven. Serve up memories today!
-(https://mrmojorising777.github.io/template_cafe-site/)
-
-### card_game (Coming soon!)
-Project is still in development
 
 ## 📈 Github Stats
 
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=MrMojoRising777&show_icons=true&hide=issues,contribs&theme=radical) ![Your Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MrMojoRising777&layout=compact&theme=radical)
 
-## 📫 Connect with Me
-
-📧 alexander.goyens@gmail.com
-📞 +324 76 77 56 80
-
-<p class="links">Or find me on:</p>
-<a href="https://www.linkedin.com/in/alexander-goyens-a0a8a2224/" target="blank">Linkedin</a>
-
-Feel free to reach out if you want to collaborate or have any questions!
 Gotta keep on Risin'! 🚀
