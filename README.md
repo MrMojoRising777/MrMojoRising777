@@ -4,7 +4,7 @@
 
 ## About Me
 
-👋 Hi, I'm Alexander Goyens, a passionate Junior Laravel Developer @ <img src="https://imgur.com/a/uAoJL2p" alt="Logo_KeySoftware">
+👋 Hi, I'm Alexander Goyens, a passionate Junior Laravel Developer @ <a href="https://keysoftware.nl"><img src="https://i.ibb.co/4Pcv6Tc/logo-key-removebg-preview.png" alt="logo" border="0"></a>
 
 ⬛🟨🟥
 
