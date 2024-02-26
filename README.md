@@ -12,7 +12,7 @@
 
 ## ⚙️ Projects
 
-### 📚 Collection Companion
+### 📚 Collection Companion 🔗<a href="https://github.com/MrMojoRising777/The_Collection_Companion">The_Collection_Companion</a>
 
 The Collection Companion is a Laravel-based web application tailored for enthusiasts to effortlessly organize and curate their comic book collections. While currently optimized for the iconic Flemish series "Suske en Wiske," the platform is designed with scalability in mind, ensuring potential expansion to other comics and series.
 
@@ -24,9 +24,19 @@ Key Features:
 🔒 Secure Authentication: Access your collection securely with user-friendly authentication powered by Laravel Breeze, guaranteeing peace of mind while managing your valuable assets. <br> <br>
 Whether you're a dedicated collector or just starting your comic journey, the Collection Companion offers a comprehensive solution to streamline your organization and enhance your comic collecting experience.
 
-### EventSync
-Effortlessly manage social connections, plan meetups, and view overlapping free dates with this Laravel-based web app.
-(https://github.com/MrMojoRising777/EventSync)
+### 📅 EventSync: Meetup Planning Made Easy 🔗<a href="https://github.com/MrMojoRising777/EventSync">EventSync</a>
+
+EventSync is a Laravel-powered web application designed to simplify the process of planning meetups with friends. Seamlessly coordinate schedules by inputting your available dates and finding overlapping free days among friends.
+
+Key Features:
+
+📆 Schedule Coordination: Effortlessly plan meetups by inputting your available dates and identifying overlapping free days among your friends' schedules. <br>
+📆 Interactive Event Display: Utilizes FullCalendar to provide an intuitive and visually appealing interface for managing events and scheduling meetups. <br>
+🗺️ Location Mapping: Integrated with OpenStreetMap to showcase meetup locations, ensuring clarity and ease of navigation for all attendees. <br>
+🔒 User Authentication: Powered by Laravel Breeze, offering secure authentication for seamless access to the platform's features. <br>
+👥 Friend Management: Easily add and manage friends within the platform, enabling efficient coordination and communication for meetup planning. <br>
+📧 Email Notifications: Invited friends receive notifications via email, keeping everyone informed and up-to-date on upcoming meetups and event details. <br> <br>
+Whether planning a casual get-together or organizing a large gathering, EventSync empowers users to effortlessly coordinate schedules and plan memorable meetups with friends.
 
 
 ## 📈 Github Stats
