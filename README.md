@@ -73,11 +73,12 @@ EventSync is a Laravel app that makes planning meetups with friends easy. Coordi
 
 Whether it's casual hangouts or larger gatherings, EventSync helps you plan it all with ease.
 
+<!-- https://github-readme-streak-stats.herokuapp.com/demo/ -->
+<!--
 ## 📈 Github Stats
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MrMojoRising777&show_icons=true&hide=issues,contribs&theme=radical" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrMojoRising777&layout=compact&theme=radical" />
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com?user=MrMojoRising777&theme=radical" /> <!-- https://github-readme-streak-stats.herokuapp.com/demo/ -->
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com?user=MrMojoRising777&theme=radical" />
 </div>
-
-Gotta keep on Risin'! 🚀
+-->
