@@ -1,6 +1,3 @@
-<div id="header" align="center">
-<!--   <img src="https://github.com/MrMojoRising777.png" width="200px" alt="Avatar" > -->
-</div>
 ## 🛈 About Me
 
 👋 Hi, I'm Alexander Goyens, a passionate Junior Laravel Developer @ <a href="https://keysoftware.nl" target="blank">KeySoftware</a>.
