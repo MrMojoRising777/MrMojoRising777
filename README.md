@@ -3,11 +3,9 @@
 👋 Hi, I'm Alexander Goyens, a passionate Junior Laravel Developer @ <a href="https://keysoftware.nl" target="blank">KeySoftware</a>.
 Having followed a Full Stack Developer course, I have a year of experience specializing in PHP and Laravel, complemented by skills in front-end technologies like HTML, CSS, JavaScript, and some basic understanding of Vue.
 
-Currently, I am working at KeySoftware, where I develop a CRM system designed to enhance workflow efficiency for brokers. My focus is on integrating functions and APIs to streamline processes and improve user experience.
+Currently, I am working at KeySoftware, the CRM system for brokers in the Netherlands. My focus is to streamline work flow and improve user experience by automating processes and integrating API's like ChatGPT, FundaDesk, SnelStart, ...
 
 ### ⚙️ Currently working on:
-- **KeySoftware**: Optimizing user experience by automating work flow and integrating API's like ChatGPT, FundaDesk, SnelStart, ..
-
 - **Card Game** (hobby): Combining Laravel for the backend and Vue for the frontend, the app would focus on providing information about historical military leaders and units by the means of cards. Try to collect all units, generals and icons of each factions through era's. Wage war and use your collected cards tactically in order to win the battle.
 
 - **Job Tracking App** (hobby): In development, this application would help users keep track of their job applications.
