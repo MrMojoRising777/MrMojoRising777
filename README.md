@@ -18,26 +18,36 @@ Currently, I am working at KeySoftware, where I develop a CRM system designed to
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
 </div>
-  
+
 ## :hammer_and_wrench: Languages and Tools:
-### Front-End
 <!-- https://github.com/devicons/devicon/tree/master/icons -->
-<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/materializecss/materializecss-original.svg" title="MaterializeCSS" alt="MaterializeCSS" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-original.svg"  title="jQuery" alt="jQuery" width="40" height="40"/>&nbsp;
-
-<img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg" title="VueJS" alt="VueJS" width="40" height="40"/>&nbsp;
-### Back-End
-<img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg"  title="PHP" alt="PHP" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-original.svg"  title="Laravel" alt="Laravel" width="40" height="40"/>&nbsp;
-
-<img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg"  title="mySQL" alt="mySQL" width="40" height="40"/>&nbsp;
-### Programs
-<img src="https://github.com/devicons/devicon/blob/master/icons/slack/slack-original.svg"  title="Slack" alt="Slack" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/trello/trello-original.svg"  title="Trello" alt="Trello" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/phpstorm/phpstorm-original.svg"  title="PhpStorm" alt="PhpStorm" width="40" height="40"/>
+<table width="100%">
+  <tr>
+    <th width="33.33%">Front-End</th>
+    <th width="33.33%">Back-End</th>
+    <th width="33.33%">Tools</th>
+  </tr>
+  <tr>
+    <td style="text-align: center;">
+      <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
+      <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg" title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
+      <img src="https://github.com/devicons/devicon/blob/master/icons/materializecss/materializecss-original.svg" title="MaterializeCSS" alt="MaterializeCSS" width="40" height="40"/>&nbsp;
+      <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
+      <img src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-original.svg" title="jQuery" alt="jQuery" width="40" height="40"/>&nbsp;
+      <img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg" title="VueJS" alt="VueJS" width="40" height="40"/>&nbsp;
+    </td>
+    <td style="text-align: center;">
+      <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" title="PHP" alt="PHP" width="40" height="40"/>&nbsp;
+      <img src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-original.svg" title="Laravel" alt="Laravel" width="40" height="40"/>&nbsp;
+      <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" title="mySQL" alt="mySQL" width="40" height="40"/>&nbsp;
+    </td>
+    <td style="text-align: center;">
+      <img src="https://github.com/devicons/devicon/blob/master/icons/slack/slack-original.svg" title="Slack" alt="Slack" width="40" height="40"/>&nbsp;
+      <img src="https://github.com/devicons/devicon/blob/master/icons/trello/trello-original.svg" title="Trello" alt="Trello" width="40" height="40"/>&nbsp;
+      <img src="https://github.com/devicons/devicon/blob/master/icons/phpstorm/phpstorm-original.svg" title="PhpStorm" alt="PhpStorm" width="40" height="40"/>&nbsp;
+    </td>
+  </tr>
+</table>
 
 ## ⚙️ Projects
 
