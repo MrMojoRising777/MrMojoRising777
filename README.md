@@ -8,8 +8,6 @@ Currently, I am working at KeySoftware, the CRM system for brokers in the Nether
 ### ⚙️ Currently working on:
 - **Card Game** (hobby): Combining Laravel for the backend and Vue for the frontend, the app would focus on providing information about historical military leaders and units by the means of cards. Try to collect all units, generals and icons of each factions through era's. Wage war and use your collected cards tactically in order to win the battle.
 
-- **Job Tracking App** (hobby): In development, this application would help users keep track of their job applications.
-
 ### 🤝 Connect with me!
 <div id="badges">
     <a href="https://www.linkedin.com/in/alexander-goyens-a0a8a2224/">
