@@ -1,46 +1,78 @@
-# Hi there, I'm MrMojoRising777! 👋
-[![GitHub followers](https://img.shields.io/github/followers/MrMojoRising777?label=Follow&style=social)](https://github.com/MrMojoRising777)
-
+<div id="header" align="center">
+<!--   <img src="https://github.com/MrMojoRising777.png" width="200px" alt="Avatar" > -->
+</div>
 ## 🛈 About Me
 
 👋 Hi, I'm Alexander Goyens, a passionate Junior Laravel Developer @ <a href="https://keysoftware.nl" target="blank">KeySoftware</a>.
-⬛🟨🟥
+Having followed a Full Stack Developer course, I have a year of experience specializing in PHP and Laravel, complemented by skills in front-end technologies like HTML, CSS, JavaScript, and some basic understanding of Vue.
 
-## 🧠 Knows about:
+Currently, I am working at KeySoftware, where I develop a CRM system designed to enhance workflow efficiency for brokers. My focus is on integrating functions and APIs to streamline processes and improve user experience.
 
-<img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&amp;logo=html5&amp;logoColor=white" alt="HTML5"> <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&amp;logo=css3&amp;logoColor=white" alt="CSS3"> <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&amp;logo=javascript&amp;logoColor=%23F7DF1E" alt="JavaScript"> <img src="https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&amp;logo=laravel&amp;logoColor=white" alt="Laravel"> <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&amp;logo=php&amp;logoColor=white" alt="PHP"> <img src="https://img.shields.io/badge/visualstudiocode-%23007ACC.svg?style=for-the-badge&amp;logo=visual-studio-code&amp;logoColor=white" alt="Visual Studio Code"> <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&amp;logo=git&amp;logoColor=white" alt="Git">
+### ⚙️ Currently working on:
+- **KeySoftware** (work): Optimizing user experience by automating work flow and integrating API's like ChatGPT, FundaDesk, SnelStart, ..
+
+- **Card Game** (hobby): Combining Laravel for the backend and Vue for the frontend, the app would focus on providing information about historical military leaders and units by the means of cards. Try to collect all units, generals and icons of each factions through era's. Wage war and use your collected cards tactically in order to win the battle.
+
+- **Job Tracking App** (hobby): In development, this application would help users keep track of their job applications.
+
+### 🤝 Connect with me!
+<div id="badges">
+    <a href="https://www.linkedin.com/in/alexander-goyens-a0a8a2224/">
+      <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    </a>
+</div>
+  
+## :hammer_and_wrench: Languages and Tools:
+### Front-End
+<!-- https://github.com/devicons/devicon/tree/master/icons -->
+<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/materializecss/materializecss-original.svg" title="MaterializeCSS" alt="MaterializeCSS" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-original.svg"  title="jQuery" alt="jQuery" width="40" height="40"/>&nbsp;
+
+<img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg" title="VueJS" alt="VueJS" width="40" height="40"/>&nbsp;
+### Back-End
+<img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg"  title="PHP" alt="PHP" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-original.svg"  title="Laravel" alt="Laravel" width="40" height="40"/>&nbsp;
+
+<img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg"  title="mySQL" alt="mySQL" width="40" height="40"/>&nbsp;
+### Programs
+<img src="https://github.com/devicons/devicon/blob/master/icons/slack/slack-original.svg"  title="Slack" alt="Slack" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/trello/trello-original.svg"  title="Trello" alt="Trello" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/phpstorm/phpstorm-original.svg"  title="PhpStorm" alt="PhpStorm" width="40" height="40"/>
 
 ## ⚙️ Projects
 
-### 📚 Collection Companion 🔗<a href="https://github.com/MrMojoRising777/The_Collection_Companion">The_Collection_Companion</a>
+### 📚 The Collection Companion 🔗<a href="https://github.com/MrMojoRising777/The_Collection_Companion">The_Collection_Companion</a>
 
-The Collection Companion is a Laravel-based web application tailored for enthusiasts to effortlessly organize and curate their comic book collections. While currently optimized for the iconic Flemish series "Suske en Wiske," the platform is designed with scalability in mind, ensuring potential expansion to other comics and series.
+The Collection Companion is a Laravel app designed for comic book collectors, optimized for "Suske en Wiske" but scalable to other series.
 
-Key Features:
+**Key Features:**
+- 📖 **Catalog Suske en Wiske**: Easily manage your collection.
+- 🔍 **ISBN Scanner**: Quickly add comics using a built-in scanner.
+- 📝 **Wishlist**: Track comics you plan to acquire.
+- 🔒 **Secure Authentication**: Powered by Laravel Breeze for safe access.
 
-📖 Catalog Suske en Wiske: Effortlessly manage your Suske en Wiske comics collection. <br>
-🔍 ISBN Scanner: Simplify the process of adding new comics to your collection by utilizing the built-in ISBN scanner, allowing for swift and accurate cataloging. <br>
-📝 Wishlist Functionality: Keep tabs on comics you aspire to acquire with the integrated wishlist feature, ensuring you never miss an addition to your collection. <br>
-🔒 Secure Authentication: Access your collection securely with user-friendly authentication powered by Laravel Breeze, guaranteeing peace of mind while managing your valuable assets. <br> <br>
-Whether you're a dedicated collector or just starting your comic journey, the Collection Companion offers a comprehensive solution to streamline your organization and enhance your comic collecting experience.
+Whether you're a seasoned collector or just starting, The Collection Companion helps you stay organized and enhance your collecting experience.
 
 ### 📅 EventSync: Meetup Planning Made Easy 🔗<a href="https://github.com/MrMojoRising777/EventSync">EventSync</a>
+EventSync is a Laravel app that makes planning meetups with friends easy. Coordinate schedules, find overlapping free days, and keep everyone on the same page.
 
-EventSync is a Laravel-powered web application designed to simplify the process of planning meetups with friends. Seamlessly coordinate schedules by inputting your available dates and finding overlapping free days among friends.
+**Key Features**:
+- 📆 **Schedule Coordination**: Utilizing FullCalendar, input your available dates and easily find shared free time among friends.
+- 🗺️ **Location Mapping**: Integrated with OpenStreetMap to display meetup locations.
+- 🔒 **User Authentication**: Powered by Laravel Breeze for simple and safe authentication.
+- 👥 **Friend Management**: Add, manage, and invite friends for smoother coordination.
+- 📧 **Email Notifications**: Keep everyone updated on upcoming meetups.
 
-Key Features:
-
-📆 Schedule Coordination: Effortlessly plan meetups by inputting your available dates and identifying overlapping free days among your friends' schedules. <br>
-📆 Interactive Event Display: Utilizes FullCalendar to provide an intuitive and visually appealing interface for managing events and scheduling meetups. <br>
-🗺️ Location Mapping: Integrated with OpenStreetMap to showcase meetup locations, ensuring clarity and ease of navigation for all attendees. <br>
-🔒 User Authentication: Powered by Laravel Breeze, offering secure authentication for seamless access to the platform's features. <br>
-👥 Friend Management: Easily add and manage friends within the platform, enabling efficient coordination and communication for meetup planning. <br>
-📧 Email Notifications: Invited friends receive notifications via email, keeping everyone informed and up-to-date on upcoming meetups and event details. <br> <br>
-Whether planning a casual get-together or organizing a large gathering, EventSync empowers users to effortlessly coordinate schedules and plan memorable meetups with friends.
-
+Whether it's casual hangouts or larger gatherings, EventSync helps you plan it all with ease.
 
 ## 📈 Github Stats
-
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=MrMojoRising777&show_icons=true&hide=issues,contribs&theme=radical) ![Your Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MrMojoRising777&layout=compact&theme=radical)
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MrMojoRising777&show_icons=true&hide=issues,contribs&theme=radical" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrMojoRising777&layout=compact&theme=radical" />
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com?user=MrMojoRising777&theme=radical" /> <!-- https://github-readme-streak-stats.herokuapp.com/demo/ -->
+</div>
 
 Gotta keep on Risin'! 🚀
