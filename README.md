@@ -6,7 +6,7 @@ Having followed a Full Stack Developer course, I have a year of experience speci
 Currently, I am working at KeySoftware, where I develop a CRM system designed to enhance workflow efficiency for brokers. My focus is on integrating functions and APIs to streamline processes and improve user experience.
 
 ### ⚙️ Currently working on:
-- **KeySoftware** (work): Optimizing user experience by automating work flow and integrating API's like ChatGPT, FundaDesk, SnelStart, ..
+- **KeySoftware**: Optimizing user experience by automating work flow and integrating API's like ChatGPT, FundaDesk, SnelStart, ..
 
 - **Card Game** (hobby): Combining Laravel for the backend and Vue for the frontend, the app would focus on providing information about historical military leaders and units by the means of cards. Try to collect all units, generals and icons of each factions through era's. Wage war and use your collected cards tactically in order to win the battle.
 
