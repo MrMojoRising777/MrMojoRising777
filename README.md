@@ -1,49 +1,37 @@
 ## 🛈 About Me
 
-👋 Hi, I'm Alexander Goyens, a passionate Junior FullStack Developer @ <a href="https://digipharma.nl" target="blank">Digipharma</a>.
-Having followed a Full Stack Developer course, I have a year of experience specializing in PHP and Laravel, complemented by skills in front-end technologies like HTML, CSS, JavaScript, and some basic understanding of Vue.
+Hi, I'm Alexander Goyens, a passionate Junior FullStack Developer @ <a href="https://digipharma.nl" target="blank">Digipharma</a>.
 
-### ⚙️ Currently working on:
-- **Card Game** (hobby): Combining Laravel for the backend and Vue for the frontend, the app would focus on providing information about historical military leaders and units by the means of cards. Try to collect all units, generals and icons of each factions through era's. Wage war and use your collected cards tactically in order to win the battle.
-
-### 🤝 Connect with me!
+### Connect with me!
 <div id="badges">
     <a href="https://www.linkedin.com/in/alexander-goyens-a0a8a2224/">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
 </div>
 
-## :hammer_and_wrench: Languages and Tools:
-<!-- https://github.com/devicons/devicon/tree/master/icons -->
-<table width="100%">
-  <tr>
-    <th width="33.33%">Front-End</th>
-    <th width="33.33%">Back-End</th>
-    <th width="33.33%">Tools</th>
-  </tr>
-  <tr>
-    <td style="text-align: center;">
-      <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-      <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg" title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
-      <img src="https://github.com/devicons/devicon/blob/master/icons/materializecss/materializecss-original.svg" title="MaterializeCSS" alt="MaterializeCSS" width="40" height="40"/>&nbsp;
-      <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-      <img src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-original.svg" title="jQuery" alt="jQuery" width="40" height="40"/>&nbsp;
-      <img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg" title="VueJS" alt="VueJS" width="40" height="40"/>&nbsp;
-    </td>
-    <td style="text-align: center;">
-      <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" title="PHP" alt="PHP" width="40" height="40"/>&nbsp;
-      <img src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-original.svg" title="Laravel" alt="Laravel" width="40" height="40"/>&nbsp;
-      <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" title="mySQL" alt="mySQL" width="40" height="40"/>&nbsp;
-    </td>
-    <td style="text-align: center;">
-      <img src="https://github.com/devicons/devicon/blob/master/icons/slack/slack-original.svg" title="Slack" alt="Slack" width="40" height="40"/>&nbsp;
-      <img src="https://github.com/devicons/devicon/blob/master/icons/trello/trello-original.svg" title="Trello" alt="Trello" width="40" height="40"/>&nbsp;
-      <img src="https://github.com/devicons/devicon/blob/master/icons/phpstorm/phpstorm-original.svg" title="PhpStorm" alt="PhpStorm" width="40" height="40"/>&nbsp;
-    </td>
-  </tr>
-</table>
+## Tech Stack
 
-## ⚙️ Projects
+![HTML5](https://img.shields.io/badge/Markup-HTML5-informational?style=flat&logo=html5&color=E34F26)
+![CSS3](https://img.shields.io/badge/Style-CSS3-informational?style=flat&logo=css3&color=1572B6)
+![JavaScript](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&color=F7DF1E)
+
+![Vue.js](https://img.shields.io/badge/Library-Vue.js-35495E?logo=vuedotjs&logoColor=4FC08D)
+![TypeScript](https://img.shields.io/badge/Code-TypeScript-informational?style=flat&logo=typescript&color=3178C6)
+
+![PHP](https://img.shields.io/badge/Code-PHP-informational?style=flat&logo=php&color=777BB4)
+![Laravel](https://img.shields.io/badge/Framework-Laravel-informational?style=flat&logo=laravel&color=FF2D20)
+
+![TailwindCSS](https://img.shields.io/badge/UI-TailwindCSS-informational?style=flat&logo=tailwindcss&color=06B6D4)
+![PrimeVue](https://img.shields.io/badge/UI-PrimeVue-informational?style=flat&logo=primevue&color=41B883)
+
+![TablePlus](https://img.shields.io/badge/Database-TablePlus-informational?style=flat&logo=tableplus&color=F39C12)
+![MySQL](https://img.shields.io/badge/Database-MySQL-informational?style=flat&logo=mysql&color=4479A1)
+
+![Postman](https://img.shields.io/badge/API-Postman-informational?style=flat&logo=postman&color=FF6C37)
+
+![PhpStorm](https://img.shields.io/badge/IDE-PhpStorm-informational?style=flat&logo=phpstorm&color=000000)
+
+## Projects
 
 ### 📚 The Collection Companion 🔗<a href="https://github.com/MrMojoRising777/The_Collection_Companion">The_Collection_Companion</a>
 
@@ -68,13 +56,3 @@ EventSync is a Laravel app that makes planning meetups with friends easy. Coordi
 - 📧 **Email Notifications**: Keep everyone updated on upcoming meetups.
 
 Whether it's casual hangouts or larger gatherings, EventSync helps you plan it all with ease.
-
-<!-- https://github-readme-streak-stats.herokuapp.com/demo/ -->
-<!--
-## 📈 Github Stats
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MrMojoRising777&show_icons=true&hide=issues,contribs&theme=radical" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrMojoRising777&layout=compact&theme=radical" />
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com?user=MrMojoRising777&theme=radical" />
-</div>
--->
